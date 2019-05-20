@@ -1,4 +1,4 @@
-class longestCommonPrefix {
+class LongestCommonPrefix {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         if (strs.size() == 0)
